@@ -1,0 +1,313 @@
+.main{
+    width: 750px;
+    height: 450px;
+    background: white
+    margin: 77px;
+    margin-left: 368px;
+    position: relative;
+    margin-top: 100px;
+
+}
+
+.first{
+    width: 187.5px;
+    height: 450px;
+    box-sizing: border-box;
+    float: left;
+}
+.amain {
+    width: 133px;
+    height: 49px;
+    background-color: #F4F4F4;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.bmain{
+    width: 52px;
+    height: 52px;
+    background-color:#F2F5FA;
+    position: absolute;
+    top: 41px;
+    left: 32px;
+}
+
+.cmain{
+    width: 109px;
+    height: 49px;
+    background-color:#ACCCF2;
+    position: absolute;
+    top: 81px;
+    left: 56px;
+}
+
+
+.afirst{
+    width: 187.5px;
+    height: 100px;
+    background: #F3C848;
+}
+
+.bfirst{
+    width: 187.5px;
+    height: 175px;
+    background: #6696E8;
+    position: absolute;
+}
+
+.cfirst{
+    width: 187.5px;
+    height: 175px;
+    background-color:#184586 ;
+    position: absolute; 
+    top: 275px;
+}
+.my{
+    width: 52px;
+    height: 52px;
+    background-color:#ECCE51;
+    position: absolute;
+    top: 84px;
+    left: 94px;
+}
+
+.second{
+    width: 187.5px;
+    height: 450px;
+    background-color: #3F679A;
+    float: left;
+    box-sizing: border-box;
+}
+
+.bir{
+    width: 133px;
+    height: 49px;
+    background-color: #ADCBED;
+    position: absolute;
+    left: 214px;
+    top: 20px; 
+}
+.main span{
+    font-size: 14px;
+    font-family:Perpetua;
+   
+}
+
+.asecond{
+    width: 187.5px;
+    height: 100px;
+    background: #F2CF59;
+}
+
+.bsecond{
+    width: 187.5px;
+    height: 175px;
+    background: #80A7E8;
+    position: absolute;
+}
+
+.csecond{
+    width: 187.5px;
+    height: 175px;
+    background-color:#3F679A;
+    position: absolute; 
+    top: 275px;
+}
+
+.seconda{
+    width: 52px;
+    height: 52px;
+    background-color:#EFD24F;
+    position: absolute;
+    top:77px;
+    left: 35px; 
+}
+
+.secondb{
+    width: 52px;
+    height: 52px;
+    background-color:#F4F5F9;
+    position: absolute;
+    top: 51px;
+    left: 81px;
+}
+
+.casecondb{
+    width: 52px;
+    height: 52px;
+    background-color:#A7C9EF;
+    position: absolute;
+    top: 49px;
+    left: 33px;
+}
+
+.cbsecondb{
+    width: 52px;
+    height: 52px;
+    background-color:#F3F4F8;
+    position: absolute;
+    top: 76px;
+    left: 95px;
+}
+
+.one{
+    width: 187.5px;
+    height: 450px;
+    background-color: white;
+    float: left;
+    box-sizing: border-box;
+}
+
+.iki{
+    width: 129px;
+    height: 49px;
+    background-color: #AFCDF1;
+    position: absolute;
+    left: 405px;
+    top: 20px; 
+}
+
+.aone{
+    width: 187.5px;
+    height: 100px;
+    background: #F3C848;
+}
+
+.bone{
+    width: 187.5px;
+    height: 175px;
+    background: #6696E8;
+    position: absolute;
+}
+
+.cone{
+    width: 187.5px;
+    height: 175px;
+    background-color:#184586;
+    position: absolute; 
+    top: 275px;
+}
+
+.ccone{
+    width: 52px;
+    height: 52px;
+    background-color:#EED151;
+    position: absolute;
+    top: 92px;
+    left: 98px; 
+}
+
+.done{
+    width: 52px;
+    height: 52px;
+    background-color:#F3F4F8;
+    position: absolute;
+    top: 50px;
+    left: 57px; 
+    
+}
+
+.two{
+    width: 187.5px;
+    height: 450px;
+    background-color: #3F679A;
+    float: left;
+    box-sizing: border-box;
+}
+
+.atwo{
+    width: 187.5px;
+    height: 100px;
+    background: #F2CF59;
+}
+
+.btwo{
+    width: 187.5px;
+    height: 175px;
+    background: #80A7E8;
+    position: absolute;
+}
+.ctwo{
+    width: 187.5px;
+    height: 175px;
+    background-color:#3F679A;
+    position: absolute; 
+    top: 275px;
+}
+
+.uc{
+    width: 129px;
+    height: 49px;
+    background-color: #F5F5F5;
+    position: absolute;
+    left: 601px;
+    top: 20px; 
+}
+
+.abcone{
+    width: 52px;
+    height: 52px;
+    background-color:#ACCCF2;
+    position: absolute;
+    top: 81px;
+    left: 36px; 
+}
+
+.cctwo{
+    width: 52px;
+    height: 52px;
+    background-color:#F4F5F7;
+    position: absolute;
+    top: 36px;
+    left: 28px; 
+}
+
+.dtwo{
+    width: 52px;
+    height: 52px;
+    background-color:#EDD253;
+    position: absolute;
+    top: 71px;
+    left: 103px;  
+}
+
+.cdtwo{
+    width: 52px;
+    height: 52px;
+    background-color:#EDD253;
+    position: absolute;
+    top: 81px;
+    left: 36px;
+}
+
+.word{
+    font-size: 13px;
+    font-family: Bookman;	
+    position: absolute;
+    top: -13px;
+   
+}
+.letter{
+    font-size: 13px;
+    font-family: Bookman;	
+    position: absolute;
+    top: -13px;
+}
+
+.life{
+    font-size: 13px;
+    font-family: Bookman;	
+    position: absolute;
+    top: -13px;
+}
+
+.live{
+    font-size: 13px;
+    font-family: Bookman;	
+    position: absolute;
+    top: -13px;  
+}
+
+
+
